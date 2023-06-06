@@ -3,7 +3,7 @@ package task4;
 public class task4_example {
 
   /**
-   * An example for task3
+   * An example for task4
    *
    * <p>Default and None-Default Constructors In Objects with Local Variables
    *

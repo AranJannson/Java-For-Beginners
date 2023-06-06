@@ -15,8 +15,8 @@ public class task4_JUnit {
   public void test() {
 
     // Task4 Object, will give an error until task4 code is correctly written
-    private task4 task4Object = new task4(21, "John");
+    task4 task4Object = new task4("John", 21);
 
-    assertEquals("21 John", task4Object.nameAndAge());
+    assertEquals("John 21", task4Object.nameAndAge());
   }
 }
