@@ -39,6 +39,9 @@ public class task7_example {
     /**
      * Gets the list of houses.
      *
+     * Side Note: Getters retrieve values
+     * Example: With the house object it can get just the address from within the object and return it.
+     *
      * @return An ArrayList containing instances of the House class.
      */
     public ArrayList<House> getListOfHouses(){

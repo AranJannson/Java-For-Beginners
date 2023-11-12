@@ -4,36 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="327a95ee-fa8b-494d-a5b1-312ed0c970f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Java_Tasks/Basic_Java_Tasks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Java_Tasks/src/task7/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Java_Tasks/src/task7/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Java_Tasks/src/task7/task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Java_Tasks/src/task7/task7_example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Java_Tasks/test/task7/task7Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Java_Tasks/test/task7/task7_example_JUnit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Java_Tasks/bin/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Tasks/bin/module-info.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Java_Tasks/bin/task1/task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Tasks/bin/task1/task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Java_Tasks/bin/task2/task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Tasks/bin/task2/task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Java_Tasks/bin/task2/task2_example.class" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Tasks/bin/task2/task2_example.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Java_Tasks/bin/task3/task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Tasks/bin/task3/task3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Java_Tasks/bin/task3/task3_JUnit.class" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Tasks/bin/task3/task3_JUnit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Java_Tasks/bin/task3/task3_example.class" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Tasks/bin/task3/task3_example.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Java_Tasks/bin/task3/task3_example_JUnit.class" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Tasks/bin/task3/task3_example_JUnit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Java_Tasks/bin/task4/task4.class" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Tasks/bin/task4/task4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Java_Tasks/bin/task4/task4_example.class" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Tasks/bin/task4/task4_example.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Java_Tasks/bin/task4/task4_example_JUnit.class" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Tasks/bin/task4/task4_example_JUnit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Java_Tasks/bin/task5/task5.class" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Tasks/bin/task5/task5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Java_Tasks/bin/task5/task5_JUnit.class" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Tasks/bin/task5/task5_JUnit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Java_Tasks/bin/task5/task5_example.class" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Tasks/bin/task5/task5_example.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Java_Tasks/bin/task5/task5_example_JUnit.class" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Tasks/bin/task5/task5_example_JUnit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Java_Tasks/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Tasks/src/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Java_Tasks/test/task4/task4_JUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Tasks/test/task4/task4_JUnit.java" afterDir="false" />
+    <list default="true" id="327a95ee-fa8b-494d-a5b1-312ed0c970f4" name="Changes" comment="Added missing file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Java_Tasks/src/task7/task7_example.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Tasks/src/task7/task7_example.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,11 +108,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699826180630</updated>
-      <workItem from="1699826181651" duration="3656000" />
+      <workItem from="1699826181651" duration="4048000" />
     </task>
+    <task id="LOCAL-00001" summary="Task7 added on Objects">
+      <option name="closed" value="true" />
+      <created>1699829915405</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699829915405</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added missing file">
+      <option name="closed" value="true" />
+      <created>1699830064491</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699830064491</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Task7 added on Objects" />
+    <MESSAGE value="Added missing file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added missing file" />
   </component>
 </project>
