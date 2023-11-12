@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="327a95ee-fa8b-494d-a5b1-312ed0c970f4" name="Changes" comment="Added missing file">
+    <list default="true" id="327a95ee-fa8b-494d-a5b1-312ed0c970f4" name="Changes" comment="Added explanation for getters">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Java_Tasks/src/task7/task7_example.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Tasks/src/task7/task7_example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +108,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699826180630</updated>
-      <workItem from="1699826181651" duration="4048000" />
+      <workItem from="1699826181651" duration="4880000" />
     </task>
     <task id="LOCAL-00001" summary="Task7 added on Objects">
       <option name="closed" value="true" />
@@ -126,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699830064491</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added explanation for getters">
+      <option name="closed" value="true" />
+      <created>1699830269454</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699830269454</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +143,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task7 added on Objects" />
     <MESSAGE value="Added missing file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added missing file" />
+    <MESSAGE value="Added explanation for getters" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added explanation for getters" />
   </component>
 </project>
