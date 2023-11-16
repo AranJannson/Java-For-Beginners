@@ -2,13 +2,12 @@ package task7;
 
 import org.junit.Before;
 import org.junit.Test;
-import org.junit.Assert;
 
 import java.util.ArrayList;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class task7Test {
+public class task7_JUnit {
 
   private task7 task7Instance;
 

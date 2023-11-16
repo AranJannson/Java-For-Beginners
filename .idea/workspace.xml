@@ -4,8 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="327a95ee-fa8b-494d-a5b1-312ed0c970f4" name="Changes" comment="Added explanation for getters">
+    <list default="true" id="327a95ee-fa8b-494d-a5b1-312ed0c970f4" name="Changes" comment="Updated README.md">
+      <change afterPath="$PROJECT_DIR$/Basic_Java_Tasks/src/task8/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Java_Tasks/src/task8/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Java_Tasks/src/task8/example/Market.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Java_Tasks/src/task8/example/SuperMarket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Java_Tasks/src/task8/example/task8_example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Java_Tasks/src/task8/task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Java_Tasks/test/task8/task8_JUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Java_Tasks/test/task8/task8_example_JUnit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Java_Tasks/bin/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Tasks/bin/module-info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Java_Tasks/bin/task7/task7_example.class" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Tasks/bin/task7/task7_example.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Java_Tasks/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Tasks/src/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Java_Tasks/test/task7/task7Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Tasks/test/task7/task7_JUnit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,24 +31,25 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2Y5rF652f5Hi6M04qiewXJNfJAs" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -52,12 +65,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "create.test.in.the.same.root": "true",
     "git-widget-placeholder": "main",
-    "last_directory_selection": "C:/Users/jjfoo/Desktop/Projects/Java-For-Beginners/Basic_Java_Tasks/test/task7",
+    "last_directory_selection": "C:/Users/jjfoo/Desktop/Projects/Java-For-Beginners/Basic_Java_Tasks/test/task8/example",
     "last_opened_file_path": "C:/Users/jjfoo/COM2041/VigenereDecryption",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -74,11 +87,29 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="task8" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="task8.example" />
+      <recent name="task8" />
       <recent name="task7" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.task8_example_JUnit">
+    <configuration name="task8_example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task8.example.task8_example" />
+      <module name="Basic_Java_Tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task8.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="task7_example_JUnit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Basic_Java_Tasks" />
       <extension name="coverage">
@@ -94,8 +125,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="task8_example_JUnit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Basic_Java_Tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="task8" />
+      <option name="MAIN_CLASS_NAME" value="task8.task8_example_JUnit" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.task8_example_JUnit" />
+        <item itemvalue="Application.task8_example" />
         <item itemvalue="JUnit.task7_example_JUnit" />
       </list>
     </recent_temporary>
@@ -108,7 +156,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699826180630</updated>
-      <workItem from="1699826181651" duration="4880000" />
+      <workItem from="1699826181651" duration="5847000" />
+      <workItem from="1700092980885" duration="3801000" />
     </task>
     <task id="LOCAL-00001" summary="Task7 added on Objects">
       <option name="closed" value="true" />
@@ -134,7 +183,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699830269454</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Updated README.md">
+      <option name="closed" value="true" />
+      <created>1699831105656</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699831105656</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +201,7 @@
     <MESSAGE value="Task7 added on Objects" />
     <MESSAGE value="Added missing file" />
     <MESSAGE value="Added explanation for getters" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added explanation for getters" />
+    <MESSAGE value="Updated README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated README.md" />
   </component>
 </project>

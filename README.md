@@ -39,3 +39,9 @@ As Of Task 7 - 8, I have started to use IntelliJ IDEA to continue this project
 - [x] Create a Object of a Car with a brand, modelYear and mileage
 - [x] Add multiple objects to a ArrayList
 - [x] Create Getters to access values in the objects
+
+## Task 8 - Interfaces and Polymorphism
+- [x] Set up an Interface
+- [x] Create an interface method
+- [x] Create Objects
+- [x] Create getters
