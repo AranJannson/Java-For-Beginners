@@ -5,7 +5,7 @@ public class task3_example {
   /**
    * An example for task3
    *
-   * <p>Methods and Unit Testing
+   * <p>Methods, If Else statements and Unit Testing
    *
    * @author Aran Jannson
    */
@@ -22,7 +22,7 @@ public class task3_example {
    * <p>Select Run As > JUnit Test
    *
    * <p>If all tests are run successfully each test will be shown as green If a test failed it will
-   * be red and you can compare your output with the one expected
+   * be red, and you can compare your output with the one expected
    *
    * <p>You will learn how to write Unit tests in a later task Each task from here forward will
    * require you to test your code against a Unit Test
@@ -57,5 +57,18 @@ public class task3_example {
 
     // Return the subtraction of x and y
     return (x - y);
+  }
+
+  /**
+   * Check If A Name Exists
+   *
+   * @return Integer, 1
+   */
+  public String ifElseExample(String name) {
+    if(name == null){
+      return "Name Does Not Exist";
+    }else{
+      return "Name Exists";
+    }
   }
 }

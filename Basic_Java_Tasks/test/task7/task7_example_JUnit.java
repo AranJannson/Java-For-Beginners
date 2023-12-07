@@ -5,7 +5,9 @@ import org.junit.Before;
 import org.junit.Test;
 
 /**
- * JUnit test class for the task7_example class.
+ * JUnit test for task7_example
+ *
+ * @author Aran Jannson
  */
 public class task7_example_JUnit {
 

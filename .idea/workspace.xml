@@ -4,20 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="327a95ee-fa8b-494d-a5b1-312ed0c970f4" name="Changes" comment="Updated README.md">
-      <change afterPath="$PROJECT_DIR$/Basic_Java_Tasks/src/task8/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Java_Tasks/src/task8/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Java_Tasks/src/task8/example/Market.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Java_Tasks/src/task8/example/SuperMarket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Java_Tasks/src/task8/example/task8_example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Java_Tasks/src/task8/task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Java_Tasks/test/task8/task8_JUnit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Java_Tasks/test/task8/task8_example_JUnit.java" afterDir="false" />
+    <list default="true" id="327a95ee-fa8b-494d-a5b1-312ed0c970f4" name="Changes" comment="Added Missing Files">
+      <change afterPath="$PROJECT_DIR$/Basic_Java_Tasks/src/task9/AnimalCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Java_Tasks/test/task9/task9Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Java_Tasks/test/task9/task9_exampleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Java_Tasks/bin/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Tasks/bin/module-info.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Java_Tasks/bin/task7/task7_example.class" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Tasks/bin/task7/task7_example.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Java_Tasks/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Tasks/src/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Java_Tasks/test/task7/task7Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Tasks/test/task7/task7_JUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Java_Tasks/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Tasks/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Java_Tasks/src/task3/task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Tasks/src/task3/task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Java_Tasks/src/task3/task3_example.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Tasks/src/task3/task3_example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Java_Tasks/test/task3/task3_JUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Tasks/test/task3/task3_JUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Java_Tasks/test/task3/task3_example_JUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Tasks/test/task3/task3_example_JUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Java_Tasks/test/task7/task7_example_JUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Tasks/test/task7/task7_example_JUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Java_Tasks/test/task8/task8_JUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Tasks/test/task8/task8_JUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Java_Tasks/test/task8/task8_example_JUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Tasks/test/task8/task8_example_JUnit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +32,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="Enum" />
         <option value="JUnit4 Test Class" />
       </list>
     </option>
@@ -70,7 +71,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "create.test.in.the.same.root": "true",
     "git-widget-placeholder": "main",
-    "last_directory_selection": "C:/Users/jjfoo/Desktop/Projects/Java-For-Beginners/Basic_Java_Tasks/test/task8/example",
+    "last_directory_selection": "C:/Users/jjfoo/Desktop/Projects/Java-For-Beginners/Basic_Java_Tasks/test/task9",
     "last_opened_file_path": "C:/Users/jjfoo/COM2041/VigenereDecryption",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -87,10 +88,14 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jjfoo\Desktop\Projects\Java-For-Beginners\Basic_Java_Tasks" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="task8" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="task9" />
       <recent name="task8.example" />
       <recent name="task8" />
       <recent name="task7" />
@@ -157,7 +162,9 @@
       <option name="presentableId" value="Default" />
       <updated>1699826180630</updated>
       <workItem from="1699826181651" duration="5847000" />
-      <workItem from="1700092980885" duration="3801000" />
+      <workItem from="1700092980885" duration="4491000" />
+      <workItem from="1701552222474" duration="19000" />
+      <workItem from="1701978145650" duration="4320000" />
     </task>
     <task id="LOCAL-00001" summary="Task7 added on Objects">
       <option name="closed" value="true" />
@@ -191,7 +198,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699831105656</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added Task8">
+      <option name="closed" value="true" />
+      <created>1700096830713</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700096830713</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added Missing Files">
+      <option name="closed" value="true" />
+      <created>1700096876976</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1700096876976</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,6 +225,8 @@
     <MESSAGE value="Added missing file" />
     <MESSAGE value="Added explanation for getters" />
     <MESSAGE value="Updated README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated README.md" />
+    <MESSAGE value="Added Task8" />
+    <MESSAGE value="Added Missing Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Missing Files" />
   </component>
 </project>
